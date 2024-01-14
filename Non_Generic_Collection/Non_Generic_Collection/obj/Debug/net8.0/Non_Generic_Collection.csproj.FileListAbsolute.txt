@@ -1,0 +1,14 @@
+C:\Projects\C# Projects\Non_Generic_Collection\Non_Generic_Collection\bin\Debug\net8.0\Non_Generic_Collection.exe
+C:\Projects\C# Projects\Non_Generic_Collection\Non_Generic_Collection\bin\Debug\net8.0\Non_Generic_Collection.deps.json
+C:\Projects\C# Projects\Non_Generic_Collection\Non_Generic_Collection\bin\Debug\net8.0\Non_Generic_Collection.runtimeconfig.json
+C:\Projects\C# Projects\Non_Generic_Collection\Non_Generic_Collection\bin\Debug\net8.0\Non_Generic_Collection.dll
+C:\Projects\C# Projects\Non_Generic_Collection\Non_Generic_Collection\bin\Debug\net8.0\Non_Generic_Collection.pdb
+C:\Projects\C# Projects\Non_Generic_Collection\Non_Generic_Collection\obj\Debug\net8.0\Non_Generic_Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Projects\Non_Generic_Collection\Non_Generic_Collection\obj\Debug\net8.0\Non_Generic_Collection.AssemblyInfoInputs.cache
+C:\Projects\C# Projects\Non_Generic_Collection\Non_Generic_Collection\obj\Debug\net8.0\Non_Generic_Collection.AssemblyInfo.cs
+C:\Projects\C# Projects\Non_Generic_Collection\Non_Generic_Collection\obj\Debug\net8.0\Non_Generic_Collection.csproj.CoreCompileInputs.cache
+C:\Projects\C# Projects\Non_Generic_Collection\Non_Generic_Collection\obj\Debug\net8.0\Non_Generic_Collection.dll
+C:\Projects\C# Projects\Non_Generic_Collection\Non_Generic_Collection\obj\Debug\net8.0\refint\Non_Generic_Collection.dll
+C:\Projects\C# Projects\Non_Generic_Collection\Non_Generic_Collection\obj\Debug\net8.0\Non_Generic_Collection.pdb
+C:\Projects\C# Projects\Non_Generic_Collection\Non_Generic_Collection\obj\Debug\net8.0\Non_Generic_Collection.genruntimeconfig.cache
+C:\Projects\C# Projects\Non_Generic_Collection\Non_Generic_Collection\obj\Debug\net8.0\ref\Non_Generic_Collection.dll
